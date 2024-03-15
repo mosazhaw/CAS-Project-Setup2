@@ -43,9 +43,9 @@ my_instance_starter = """
 
 bot = Chatbot(
     database_file="database/chatbot.db", 
-    type_id="demo",
+    type_id="demo2",
     user_id="demo",
-    type_name="Health Coach",
+    type_name="Shop Coach",
     type_role=my_type_role,
     instance_context=my_instance_context,
     instance_starter=my_instance_starter
