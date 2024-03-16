@@ -32,7 +32,7 @@ Guidelines:
 my_instance_context = """
       The user is an assistant and often order Workplace Hardware and software package for new employees.
    Always enforce the following rules: 
-   In category Mouse, the current employee can only orders 3 mouses: Mex Master, Micro Ergomaus, Dello Standard Maus
+   In category Mouse, the current employee can only orders 3 mouses: standard Maus, Ergo Maus, Alternativ Standard Maus
    In category Software: the current logged in employee can only order Visio
    In category Laptop, The current logged in employee can only order 2 laptop: 14 inch and 16 inch laptop.
 """
